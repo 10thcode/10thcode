@@ -1,6 +1,4 @@
-### Hi there 👋
+# Hello world! 👋
 
-- 🌱 I’m currently learning Software Engineering at ALX.
-- 👯 I’m looking to collaborate on Web projects.
-- 📫 How to reach me: @10thcode on twttr.
-- ⚡ Fun fact: Web developer are spider. I like spiders. Weird. 
+I'm **Atta Badu Kwabena**, a Full Stack Software Engineer with a passion for building web applications.
+Read more about me, my projects, skill, and achievements on my [portfolio website](https://www.10thcode.me).
